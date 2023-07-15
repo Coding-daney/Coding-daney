@@ -1,16 +1,21 @@
-### Hi there 👋
+###🙋‍♂️ Hi there, I'm Daney
 
-<!--
-**Coding-daney/Coding-daney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🛠 I’m currently working on my first own Website
+  
+- 🌱 I’m currently learning a full Tech Stack:
+  - Front-End Development: HTML5, CSS3, JavaScript
+  - Back-End Development: Node.js
+  - Database: MySQL
+  - Version Control: Git, GitHub
+  - Testing and Deployment: to be determined (Docker?)
+  - Agile Methodologies: to be determined (Scrum?)
+  - UI/UX Design: Adobe Creative Cloud☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:octocat:Please keep in mind, i am still a Beginner in all of these Technologies
+
+- 🤔 I’m looking for a company to support me with an apprenticeship or training courses
+- 💬 Ask me about anything!
+- 🧪 Goal: I strive to contribute to innovative projects that make a positive impact.
+- ⚡ Fun fact: I knew for a long time, i'll be a Developer.
+
