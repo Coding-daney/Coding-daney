@@ -19,4 +19,4 @@
 #### - 🧪 Goal: I strive to contribute to innovative projects that make a positive impact.
 #### - ⚡ Fun fact: I knew for a long time, i'll be a Developer.
 
-![Coding-daney/octocat-1689427339503.png]
+![Octocat.](https://github.com/Coding-daney/Coding-daney/blob/main/octocat-1689427339503.png)
