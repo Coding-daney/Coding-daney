@@ -12,7 +12,7 @@
   - Agile Methodologies: to be determined (Scrum?)
   - UI/UX Design: Adobe Creative Cloud☁️
 
-    :octocat:Please keep in mind, i am still a Beginner in all of these Technologies
+  :octocat:Please keep in mind, i am still a Beginner in all of these Technologies
 
 - 🤔 I’m looking for a company to support me with an apprenticeship or training courses
 - 💬 Ask me about anything!
